@@ -1,5 +1,5 @@
 # E-Commerce-website-design
 
-Simple Ecommerce website design ...still in progress.
+## Simple Ecommerce website design ....
 
-![Screenshot](E-commerce Website.png)
+![Screenshot](screenshot.png)
